@@ -1,0 +1,9 @@
+{
+  "profiles": {
+    "Control.Cloud.Dms.MessageRouter": {
+      "commandName": "Project",
+      "commandLineArgs": "--port 7023",
+      "launchBrowser": false
+    }
+  }
+}
